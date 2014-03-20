@@ -3,8 +3,8 @@
  * Plugin rssroll
  *
  * @package	PLX
- * @version	1.2
- * @date	09/11/2013
+ * @version	1.3
+ * @date	20/03/2014
  * @author	i M@N
  * @based on	Rockyhorror Blogroll
  **/
